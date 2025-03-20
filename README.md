@@ -18,6 +18,7 @@ This is my personal configuration for zsh that has some similarities to the conf
     - ls -A
     - ls -CF
 - Prompt: Oh-my-posh
+- Default Text Editor: Vim
 
 ## Prerequisites
 - Install zsh (obviously)

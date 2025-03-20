@@ -1,4 +1,6 @@
 export PATH=$PATH:$HOME/.local/bin
+export EDITOR=vim
+export VISUAL=vim
 
 # Setup ZINIT plugin directory
 ZINIT_HOME="${XDG_DATA_HOME:-${HOME}/.local/share}/zinit/zinit.git"
